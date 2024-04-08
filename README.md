@@ -1,5 +1,13 @@
-# EpidermVision
+# Title: EpidermVision
 ## A Skin Disease Detection Project Using Deep Learning
+
+## Project Developers:
+
+| Name | Email |
+| --- | --- |
+| Mir Fahad Abdullah | fahadabdullah67@gmail.com |
+| Mahmodul Hasan Jobayer  | mahmodulhasan2025@gmail.com |
+
 
 Skin diseases represent a significant global health concern, affecting millions of 
 individuals worldwide and necessitating accurate and timely diagnosis for effective 
