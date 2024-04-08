@@ -1,16 +1,20 @@
 # EpidermVision
 ## A Skin Disease Detection Project Using Deep Learning
 
-Skin diseases are a significant global health concern, demanding timely and accurate 
-diagnosis for effective treatment. Traditional diagnostic methods rely on subjective visual 
-inspection, leading to variability and potential misdiagnosis. This proposal introduces a 
-novel approach: automated skin disease detection using deep learning. Our project aims 
-to develop a deep-learning model capable of accurately identifying skin diseases from 
-images. We will train convolutional neural networks (CNNs) models on a diverse dataset 
-of skin conditions. Key components include data collection, preprocessing, model 
-selection, training, and evaluation. We will gather high-quality images and employ 
-techniques like image augmentation and normalization for robustness. State-of-the-art 
-CNN architectures such as ResNet, VGG, Inception, DenseNet, etc. will be explored, 
-along with transfer learning for efficiency. Rigorous evaluation metrics will ensure model 
-performance. Overall, our project promises to enhance diagnostic accuracy in 
-dermatology, improving patient outcomes and healthcare delivery.
+Skin diseases represent a significant global health concern, affecting millions of 
+individuals worldwide and necessitating accurate and timely diagnosis for effective 
+management. However, the conventional diagnostic approaches reliant on subjective 
+visual assessment by dermatologists often lead to inconsistencies and potential 
+misdiagnoses. In response to these challenges, there is a growing interest in leveraging 
+cutting-edge technologies, particularly deep learning, to revolutionize the field of 
+dermatological diagnosis.
+This proposal introduces an innovative approach to address the shortcomings of 
+traditional diagnostic methods by harnessing the power of deep learning for automated 
+skin disease detection. By employing advanced convolutional neural networks (CNNs) 
+and leveraging diverse datasets, our project aims to develop a robust system capable of 
+accurately identifying a wide range of dermatological conditions from images.
+Here, we underscore the pressing need for improved diagnostic techniques in 
+dermatology, emphasizing the limitations of current practices and the potential of deep 
+learning to overcome these challenges. Through this project, we aspire to contribute to 
+the advancement of diagnostic accuracy and efficiency in dermatology, ultimately 
+enhancing patient care and healthcare delivery.
