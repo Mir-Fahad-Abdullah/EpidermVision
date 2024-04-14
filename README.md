@@ -1,6 +1,6 @@
 # Title: EpidermVision
 ## A Skin Disease Detection Project Using Deep Learning
-
+ 
 ## Project Developers:
 
 | Name | Email |
