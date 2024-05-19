@@ -1,0 +1,18 @@
+#!/bin/bash -l
+
+##SBATCH -p gpu
+##SBATCH -p gpu-v100-16g
+#SBATCH -p dgx-spa -A dgx-spa 
+
+#SBATCH --job-name="train clf.v3"
+#SBATCH --mem=8G
+#SBATCH --time=30:00:00
+#SBATCH --gres=gpu:v100:1
+#SBATCH --export=HOME,USER,TERM,WRKDIR
+
+module load anaconda
+module load cuda
+
+source activate /scratch/work/bijoym1/conda_envs/ser_venv
+
+python main.py
