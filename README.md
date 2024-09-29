@@ -5,8 +5,8 @@
 
 | Name | Email |
 | --- | --- |
-| Mir Fahad Abdullah | fahadabdullah67@gmail.com |
 | Mahmodul Hasan Jobayer  | mahmodulhasan2025@gmail.com |
+| Mir Fahad Abdullah | fahadabdullah67@gmail.com |
 
 ## Project Overview
 Skin diseases represent a significant global health concern, affecting millions of 
