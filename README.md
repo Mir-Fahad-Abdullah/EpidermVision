@@ -28,3 +28,7 @@ dermatology, emphasizing the limitations of current practices and the potential 
 learning to overcome these challenges. Through this project, we aspire to contribute to 
 the advancement of diagnostic accuracy and efficiency in dermatology, ultimately 
 enhancing patient care and healthcare delivery.
+
+## Project Dataset: ISIC skin disease image dataset labelled
+
+https://www.kaggle.com/datasets/riyaelizashaju/isic-skin-disease-image-dataset-labelled
